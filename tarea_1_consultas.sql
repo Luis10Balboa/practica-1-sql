@@ -41,3 +41,14 @@ SELECT nombre, email
 FROM clientes
 WHERE ciudad NOT IN ('Madrid', 'Barcelona', 'Valencia');
 
+
+-- ¿Qué fue más intuitivo y útil?
+-- El uso de SELECT fue el concepto más intuitivo, ya que permite visualizar fácilmente 
+-- la información de una tabla. La cláusula WHERE será la más útil en mi trabajo como 
+-- desarrollador, porque permite filtrar datos específicos según diferentes condiciones.
+
+-- ¿Dónde aplicarías SELECT y WHERE?
+-- Puedo aplicar las consultas SELECT y WHERE en proyectos académicos como sistemas de 
+-- ventas o bases de datos de clientes, y en proyectos personales donde se necesite 
+-- mostrar información filtrada, como catálogos de productos o reportes.
+
